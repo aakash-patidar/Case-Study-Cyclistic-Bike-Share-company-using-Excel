@@ -36,9 +36,9 @@ Analyze the behavior of casual riders and annual members in order to develop a s
 
 **Key Stakeholders**  
 The key stakeholders for this project include:  
-Lily Moreno: The Director of marketing and my Manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program.
-Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
-Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
+Lily Moreno: The Director of marketing and my Manager. Moreno is responsible for the development of campaigns and initiatives to promote the bike-share program.  
+Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.  
+Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.  
 
 ### Prepare:  
 The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.  
