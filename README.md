@@ -111,17 +111,17 @@ The "Analyze" phase in the data analysis process involves examining the cleaned 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/57906816-3727-42ce-a6cf-f718d64c5634">  
 
 ### Share:
-The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.
+The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
 
-  <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">  
+1. **Average ride length for members and casual riders**  
+
+    <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">  
 The chart shows that casual riders have a significantly longer average ride length, approximately 28 minutes and 48 seconds, compared to members, whose average ride length is about 14 minutes and 24 seconds.
     
 2. **Average ride length for users by weekdays**
 
-     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">
-The bar graph shows how Cyclistic’s bike share program is used differently by annual members and casual riders. It shows that annual members of Cyclistic’s bike share program have consistent ride lengths throughout the week, using the service mainly for daily activities like commuting. In contrast, casual riders have much longer rides on Saturdays and Sundays, suggesting they use the bikes more for weekend leisure and recreation. This highlights the different riding patterns: regular use by annual members and recreational use by casual riders.lves communicating the findings, insights, and results of the analysis to stakeholders, colleagues, or a broader audience. This phase is crucial as it translates complex data into actionable information that can drive decision-making. The best way to share your findings is through data visualization. Data visualization, the graphical representation of data, helps you convey meaningful insights and tell your data story more effectively.
-
-1. **Average ride length for members and casual rid
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">  
+The bar graph shows how Cyclistic’s bike share program is used differently by annual members and casual riders. It shows that annual members of Cyclistic’s bike share program have consistent ride lengths throughout the week, using the service mainly for daily       activities like commuting. In contrast, casual riders have much longer rides on Saturdays and Sundays, suggesting they use the bikes more for weekend leisure and recreation. This highlights the different riding patterns: regular use by annual members and         recreational use by casual riders.lves communicating the findings, insights, and results of the analysis to stakeholders, colleagues, or a broader audience. This phase is crucial as it translates complex data into actionable information that can drive decision-making. The best way to share your findings is through data visualization. Data visualization, the graphical representation of data, helps you convey meaningful insights and tell your data story more effectively.
 
 3. **Number of rides for users by weekdays**
 
