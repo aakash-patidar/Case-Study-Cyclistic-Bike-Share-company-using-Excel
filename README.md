@@ -111,9 +111,9 @@ The "Analyze" phase in the data analysis process involves examining the cleaned 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/57906816-3727-42ce-a6cf-f718d64c5634">  
 
 ### Share:
-The "Share" phase of the data analysis process invoers**
-   
-     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">
+The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.
+
+  <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">  
 The chart shows that casual riders have a significantly longer average ride length, approximately 28 minutes and 48 seconds, compared to members, whose average ride length is about 14 minutes and 24 seconds.
     
 2. **Average ride length for users by weekdays**
