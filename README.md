@@ -61,15 +61,19 @@ Now that all the data is cleaned up, it's time to transform it into a useful for
 Power Query is a powerful data transformation tool in Excel that allows users to import, transform, and combine data from various sources. It enables users to clean, reshape, and transform data with ease, making it suitable for analysis and reporting purposes.  
 **Data Merging using Power Query**  
 A new table named Annual_cyclistic_data_2023 was created. Then, imported the complete folder of cleaned 12 months data to merge.  
+
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/95d4503c-f99c-48f2-bc18-9baf239f9f67">
 
 Now, all the 12 months bike sharing data was combined using the Power Query to transform into a meaningful format.  
+
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/3b51153f-f65d-4f42-b2c9-4493d9869a22">
 
 Here is the comprehensive dataset for the Cyclistic bike-sharing company covering the entire year of 2023:  
+
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/906f2fb6-8e9c-47c7-8bad-f8eccb2c6022">
 
 Once the data has been merged, load the data into the Excel to do some further transformation and organization of data to ensure data integrity.  
+
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/adc2f0da-7c42-4039-8321-b79cf24ff686">
 
 Now, three more columns were added named ride_length, day_of_week and day_of_week_name.  
@@ -79,6 +83,7 @@ format.
 - **day_of_week_name:** A new column, day_of_week_name, was added to display the names of the days. This was done by copying all the values from the day_of_week column, pasting them as values using the Paste Special tool in Excel, and then replacing the numerical values with the day names (Sunday through Saturday) using the Find & Replace tool.
 
 The complete cleaned dataset was finally collected and used to analyze important insights.  
+
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/1abf29a7-cd76-4fd5-adbf-a1d9baa0998c">  
 
 ### Analyze:  
@@ -108,20 +113,33 @@ The "Analyze" phase in the data analysis process involves examining the cleaned 
 ### Share:
 The "Share" phase of the data analysis process involves communicating the findings, insights, and results of the analysis to stakeholders, colleagues, or a broader audience. This phase is crucial as it translates complex data into actionable information that can drive decision-making. The best way to share your findings is through data visualization. Data visualization, the graphical representation of data, helps you convey meaningful insights and tell your data story more effectively.
 
-1. **Average ride length for members and casual riders**  
+1. **Average ride length for members and casual riders**
+   
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">  
+
+    
+
+
+2. **Average ride length for users by weekdays**
+
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">  
 
 
 
-2. **Average ride length for users by weekdays**  
+
+3. **Number of rides for users by weekdays**
+
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/4bdcb3bc-791e-4e1a-ac9a-51965781cdba">  
 
 
 
-3. **Number of rides for users by weekdays**    
 
 
+4. **Number of rides for users by bike type**
+
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/92ba061c-fa9d-4a2f-8c48-999d14a34759">  
 
 
-4. **Number of rides for users by bike type**  
 
 
 
