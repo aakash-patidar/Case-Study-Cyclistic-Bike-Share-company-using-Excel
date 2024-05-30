@@ -111,9 +111,7 @@ The "Analyze" phase in the data analysis process involves examining the cleaned 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/57906816-3727-42ce-a6cf-f718d64c5634">  
 
 ### Share:
-The "Share" phase of the data analysis process involves communicating the findings, insights, and results of the analysis to stakeholders, colleagues, or a broader audience. This phase is crucial as it translates complex data into actionable information that can drive decision-making. The best way to share your findings is through data visualization. Data visualization, the graphical representation of data, helps you convey meaningful insights and tell your data story more effectively.
-
-1. **Average ride length for members and casual riders**
+The "Share" phase of the data analysis process invoers**
    
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">
 The chart shows that casual riders have a significantly longer average ride length, approximately 28 minutes and 48 seconds, compared to members, whose average ride length is about 14 minutes and 24 seconds.
@@ -121,7 +119,9 @@ The chart shows that casual riders have a significantly longer average ride leng
 2. **Average ride length for users by weekdays**
 
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">
-The bar graph shows how Cyclistic’s bike share program is used differently by annual members and casual riders. It shows that annual members of Cyclistic’s bike share program have consistent ride lengths throughout the week, using the service mainly for daily activities like commuting. In contrast, casual riders have much longer rides on Saturdays and Sundays, suggesting they use the bikes more for weekend leisure and recreation. This highlights the different riding patterns: regular use by annual members and recreational use by casual riders.
+The bar graph shows how Cyclistic’s bike share program is used differently by annual members and casual riders. It shows that annual members of Cyclistic’s bike share program have consistent ride lengths throughout the week, using the service mainly for daily activities like commuting. In contrast, casual riders have much longer rides on Saturdays and Sundays, suggesting they use the bikes more for weekend leisure and recreation. This highlights the different riding patterns: regular use by annual members and recreational use by casual riders.lves communicating the findings, insights, and results of the analysis to stakeholders, colleagues, or a broader audience. This phase is crucial as it translates complex data into actionable information that can drive decision-making. The best way to share your findings is through data visualization. Data visualization, the graphical representation of data, helps you convey meaningful insights and tell your data story more effectively.
+
+1. **Average ride length for members and casual rid
 
 3. **Number of rides for users by weekdays**
 
@@ -133,11 +133,19 @@ The chart displays the number of rides for casual and member users across weekda
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/92ba061c-fa9d-4a2f-8c48-999d14a34759">  
 The bar chart displays the number of rides for different bike types (electric, docked, and classic) categorized by user type (member and casual) on weekdays. Members dominate with approximately 400,000 electric bike rides compared to around 175,000 by casual users. For classic bikes, members take about 425,000 rides, while casual users take around 125,000 rides. Docked bikes are used the least, with members accounting for nearly 30,000 rides and casual users for around 10,000 rides. Members consistently have higher ride numbers across all bike types.  
 
+### Act:
 
+**Key takeaways:**  
+- Ride Duration: Casual riders have significantly longer average ride lengths compared to annual members.
+- Usage Patterns: Annual Member use the bike share service consistently throughout the week, primarily for daily activities such as commuting while casual riders tend to have much longer rides on weekends (Saturdays and Sundays), indicating a preference for using the bikes for leisure and recreational activities.
+- Ride Frequency: Members have a higher number of rides consistently across all weekdays, peaking on Tuesday and Wednesday with over 120,000 rides. The lowest usage is on Sunday with around 80,000 rides whereas casual riders maintain stable ride numbers from Monday to Friday, with a notable increase during weekends, especially on Saturday, reaching around 60,000 rides.
+- Bike Type Preference: Annual members show a higher preference for classic and electric bikes, while casual riders have a higher inclination towards docked bikes.
+- Weekday vs. Weekend Usage: Annual members tend to ride more on weekdays, while casual riders have higher usage on weekends.
 
-
-
-  
+#### Recommendations to convert more Casual Riders into Annual Members    
+- **Introduce Weekend Membership Plans:** Offer a special weekend membership plan that provides unlimited rides at a discounted rate for weekends. This could attract casual riders who predominantly use the service on Saturdays and Sundays to commit to a membership, providing them with cost savings and benefits.
+- **Enhanced Incentives and Rewards:** Create a loyalty program that rewards frequent casual riders with incentives such as discounted annual memberships, free ride credits, or exclusive access to events and partner discounts. Highlight the long-term savings and perks that come with an annual membership to encourage casual riders to upgrade.
+- **Targeted Marketing and Promotions:** Develop targeted marketing campaigns that focus on the benefits of an annual membership. Use data-driven insights to send personalized promotions to casual riders who frequently use the service on weekends. Highlight features such as the convenience of consistent usage, cost savings, and additional benefits (e.g., priority access to bikes, special offers). Engage these riders through email campaigns, social media ads, and in-app notifications to convert them into annual members.
 
 
    
