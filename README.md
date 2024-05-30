@@ -115,31 +115,23 @@ The "Share" phase of the data analysis process involves communicating the findin
 
 1. **Average ride length for members and casual riders**
    
-     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">  
-
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/f1da23c1-d111-48d3-a779-ce790143012b">
+The chart shows that casual riders have a significantly longer average ride length, approximately 28 minutes and 48 seconds, compared to members, whose average ride length is about 14 minutes and 24 seconds.
     
-
-
 2. **Average ride length for users by weekdays**
 
-     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">  
-
-
-
+     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/fd86c0a4-43fa-44a3-86f9-9d13d7a05fb2">
+The bar graph shows how Cyclistic’s bike share program is used differently by annual members and casual riders. It shows that annual members of Cyclistic’s bike share program have consistent ride lengths throughout the week, using the service mainly for daily activities like commuting. In contrast, casual riders have much longer rides on Saturdays and Sundays, suggesting they use the bikes more for weekend leisure and recreation. This highlights the different riding patterns: regular use by annual members and recreational use by casual riders.
 
 3. **Number of rides for users by weekdays**
 
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/4bdcb3bc-791e-4e1a-ac9a-51965781cdba">  
-
-
-
-
-
+The chart displays the number of rides for casual and member users across weekdays. Member users consistently have higher numbers of rides than casual users throughout the week. The peak usage for members is observed on Tuesday and Wednesday, with over 120,000 rides while the lowest usage is on Sunday, with around 80,000 rides. Casual users show relatively stable ride numbers from Monday to Friday, with an increase during the weekend, especially on Saturday, reaching around 60,000 rides. Overall, members dominate ride numbers on weekdays, while casual users show increased activity on weekends. 
+     
 4. **Number of rides for users by bike type**
 
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/92ba061c-fa9d-4a2f-8c48-999d14a34759">  
-
-
+The bar chart displays the number of rides for different bike types (electric, docked, and classic) categorized by user type (member and casual) on weekdays. Members dominate with approximately 400,000 electric bike rides compared to around 175,000 by casual users. For classic bikes, members take about 425,000 rides, while casual users take around 125,000 rides. Docked bikes are used the least, with members accounting for nearly 30,000 rides and casual users for around 10,000 rides. Members consistently have higher ride numbers across all bike types.  
 
 
 
