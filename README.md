@@ -60,7 +60,7 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 Now that all the data is cleaned up, it's time to transform it into a useful format and organize it to prepare it for analysis.
 Power Query is a powerful data transformation tool in Excel that allows users to import, transform, and combine data from various sources. It enables users to clean, reshape, and transform data with ease, making it suitable for analysis and reporting purposes.  
 **Data Merging using Power Query**  
-A new table named Annual_cyclistic_data_2023 was created. Then, imported the complete folder of cleaned 12 months data to merge.  
+A new table named Annual_cyclistic_data_2022 was created. Then, imported the complete folder of cleaned 12 months data to merge.  
 
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/95d4503c-f99c-48f2-bc18-9baf239f9f67">
 
