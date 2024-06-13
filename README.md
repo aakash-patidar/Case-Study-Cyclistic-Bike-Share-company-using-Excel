@@ -49,7 +49,7 @@ The "prepare" phase of the data analysis process involves collecting and prepari
 The "process" step in data analysis involves cleaning, transforming, and integrating data to make sure it is accurate, consistent, and ready for analysis. This includes tasks like handling missing values, correcting errors, standardizing formats, and merging data from different sources. These steps are essential to ensure the quality and reliability of the data for meaningful analysis.  
 
 The tool we used for the process step is Microsoft Excel. The following actions we performed to clean the data:
-- **Converting .csv files to .xlsx format:** First, the 12 months of bike-sharing data collected in the prepare step were in .csv format. We converted this data into .xlsx format using the Save As option.
+- **Converting .csv files to .xlsx format:** First, the 12 months of bike-sharing data collected in the prepare step were in .csv format. We converted this data into .xlsx format using the Save As option. Converting a CSV file to an XLSX file allows for enhanced data formatting, improved readability, and access to advanced features such as formulas, charts, and data validation available in Excel.
 - **Removing Duplicates:** Utilized Excel's built-in "Remove Duplicates" feature to identify and remove duplicate entries from the dataset.
 - **Removing Blanks:** When transforming data, removing blanks(or missing values) is a crucial step to ensure data quality and integrity. To ensure integrity of the data, blank values were removed from the start_station_name, start_station_id, end_station_name, and end_station_id columns to ensure data completeness.
 - **Handling Missing Data:** Used Excel's tool like Conditional formatting to identify and handle any missing data.
