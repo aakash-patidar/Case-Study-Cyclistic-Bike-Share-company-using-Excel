@@ -42,7 +42,7 @@ Cyclistic marketing analytics team: A team of data analysts who are responsible 
 
 ### Prepare:  
 The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.  
-- The dataset used for this project is public data provided by Motivate International Inc. It can be used to explore how different customer types are using Cyclistic bikes. The dataset consists of monthly files from January 2023 to December 2023.
+- The dataset used for this project is public data provided by Motivate International Inc. It can be used to explore how different customer types are using Cyclistic bikes. The dataset consists of monthly files from January 2022 to December 2022.
 - In each file of the dataset, there are 13 columns that describe different aspects of the bike rides. The columns consist of the ride ID, bike type, starting and ending station IDs, names of the starting and ending stations, geographic coordinates, and membership type for each ride.
 
 ### Process:
