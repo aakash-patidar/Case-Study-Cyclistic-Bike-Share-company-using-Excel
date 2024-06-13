@@ -42,7 +42,7 @@ Cyclistic marketing analytics team: A team of data analysts who are responsible 
 
 ### Prepare:  
 The "prepare" phase of the data analysis process involves collecting and preparing the necessary data for analysis. Key steps include identifying data sources such as databases, spreadsheets, or external sources, and then extracting the relevant information.  
-- The dataset used for this project is public data provided by Motivate International Inc. It can be used to explore how different customer types are using Cyclistic bikes. The dataset consists of monthly files from January 2022 to December 2022.
+- The dataset used for this project is public data provided by Motivate International Inc. It can be used to explore how different customer types are using Cyclistic bikes. The dataset consists of monthly files from January 2023 to December 2023.
 - In each file of the dataset, there are 13 columns that describe different aspects of the bike rides. The columns consist of the ride ID, bike type, starting and ending station IDs, names of the starting and ending stations, geographic coordinates, and membership type for each ride.
 
 ### Process:
@@ -60,7 +60,7 @@ The tool we used for the process step is Microsoft Excel. The following actions 
 Now that all the data is cleaned up, it's time to transform it into a useful format and organize it to prepare it for analysis.
 Power Query is a powerful data transformation tool in Excel that allows users to import, transform, and combine data from various sources. It enables users to clean, reshape, and transform data with ease, making it suitable for analysis and reporting purposes.  
 **Data Merging using Power Query**  
-A new table named Annual_cyclistic_data_2022 was created. Then, imported the complete folder of cleaned 12 months data to merge.  
+A new table named Annual_cyclistic_data_2023 was created. Then, imported the complete folder of cleaned 12 months data to merge.  
 
   <img width="460" height="300" src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/95d4503c-f99c-48f2-bc18-9baf239f9f67">
 
