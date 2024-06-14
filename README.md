@@ -95,22 +95,22 @@ The "Analyze" phase in the data analysis process involves examining the cleaned 
    
      <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/ba0b17be-a15b-4888-8ef5-c0c04790eab8">  
 
-2. **Average ride length for users by weekdays**
+2. **Average ride length for users by weekdays**  
    A pivot table was designed to uncover the patterns in ride length for different users across the week days. This pivot table was organized by placing member_casual in the Rows area, day_of_week_name in the Columns area, and the Average of ride_length in the Values area. This configuration enabled us to analyze utilization patterns and gain insights into how different rider types use bikes on different days of the week.  
 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/9a5943a6-6a93-47b0-8beb-c8ab0a04db6a">  
 
-3. **Number of rides for users by weekdays**
+3. **Number of rides for users by weekdays**  
    A pivot table was crafted to unveil the patterns in the number of rides for different users throughout the weekdays. This pivot table was structured by arranging day_of_week_name in the Rows area, member_casual in the Columns area, and the Count of ride_id in the Values area. This setup empowered us to scrutinize utilization patterns and glean insights into how the number of rides varies across weekdays for different user groups.  
 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/c1478d1a-5840-45b0-9cbf-a2850cf362b6">  
 
-4. **Number of rides for users by bike type**
+4. **Number of rides for users by bike type**  
      A pivot table was created to examine how annual riders and casual riders utilize various types of bikes. This pivot table was organized by putting "rideable_type" in rows and "member_casual" in columns and Count of ride_id in Values to count the number of rides for each combination to see how annual riders and casual riders use different types of bikes.  
 
     <img src="https://github.com/aakash-patidar/Case-Study-Cyclistic-Bike-Share-company-using-Excel/assets/171103471/57906816-3727-42ce-a6cf-f718d64c5634">  
 
-### Share:
+### Share:  
 The "Share" phase of the data analysis process involves communicating the results and insights derived from the analysis to stakeholders. This includes summarizing key findings, creating visualizations to present data trends, and providing actionable recommendations for decision-making. Effective communication ensures that stakeholders understand the implications of the data analysis and can use it to inform strategic decisions.  
 
 1. **Average ride length for members and casual riders**  
